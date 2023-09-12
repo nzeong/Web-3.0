@@ -1,0 +1,139 @@
+.greeting-W9m {
+    height: 78rem;
+    width: 100%;
+  
+    .home-MAP {
+      background-color: #ffffff;
+      border-radius: 1.5rem;
+      height: 100%;
+      overflow: hidden;
+      position: relative;
+      width: 100%;
+  
+      .home-indicators-2vj {
+        background-color: #ffffff;
+        box-sizing: border-box;
+        height: 3.4rem;
+        left: 0;
+        overflow: hidden;
+        padding: 2.1rem 11.3rem 0.8rem 11.3rem;
+        position: absolute;
+        top: 74.7rem;
+        width: 36rem;
+  
+        .color-hmy {
+          background-color: #000000;
+          border-radius: 10rem;
+          height: 0.5rem;
+          width: 100%;
+        }
+      }
+      .auto-group-zmgb-bsM {
+        box-sizing: border-box;
+        height: 74.7rem;
+        left: 0;
+        padding: 7rem 0rem 4rem 0rem;
+        position: absolute;
+        top: 0;
+        width: 36rem;
+  
+        .frame-175-hfV {
+          display: flex;
+          flex-direction: column;
+          margin: 0rem 0rem 2.8rem 1.9rem;
+  
+          .item--S7H {
+            color: #333d4b;
+            flex-shrink: 0;
+            font-family: Abhaya Libre ExtraBold, 'Source Sans Pro';
+            font-size: 2.4rem;
+            font-weight: 800;
+            line-height: 1.2575;
+            margin-bottom: 0.3rem;
+            white-space: nowrap;
+          }
+          .item--tEB {
+            color: rgba(51, 61, 75, 0.6000000238);
+            flex-shrink: 0;
+            font-family: Aclonica, 'Source Sans Pro';
+            font-size: 1.6rem;
+            font-weight: 400;
+            line-height: 1.1325;
+          }
+        }
+        .illustration-finances-JHu {
+          height: 36.0427rem;
+          object-fit: contain;
+          position: relative;
+          vertical-align: top;
+          width: 36rem;
+        }
+        .frame-54-DQs {
+          align-items: center;
+          background-color: #ffcb51;
+          border-radius: 1.2rem;
+          color: #ffffff;
+          display: flex;
+          font-family: Acme, 'Source Sans Pro';
+          font-size: 1.68rem;
+          font-weight: 400;
+          height: 5.4rem;
+          justify-content: center;
+          line-height: 1.2675;
+          margin: 0rem 2.2rem 0rem 1.7rem;
+          overflow: hidden;
+          position: relative;
+          white-space: nowrap;
+          width: calc(100% - 3.9rem);
+        }
+      }
+      .status-bar-3Pu {
+        align-items: center;
+        background-color: #ffffff;
+        box-sizing: border-box;
+        display: flex;
+        height: 4rem;
+        left: 0;
+        padding: 1.4rem 1.602rem 1rem 3rem;
+        position: absolute;
+        top: 0;
+        width: 36rem;
+  
+        .item-9-41-kJK {
+          color: #000000;
+          display: flex;
+          flex-shrink: 0;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 1.6rem;
+          font-weight: 500;
+          line-height: 1;
+          margin-right: 21rem;
+          white-space: nowrap;
+        }
+        .mobile-signal-TiX {
+          flex-shrink: 0;
+          height: 1rem;
+          margin: 0.3rem 0.5rem 0rem 0rem;
+          object-fit: contain;
+          vertical-align: top;
+          width: 1.8rem;
+        }
+        .wifi-9rF {
+          flex-shrink: 0;
+          height: 1.0965rem;
+          margin: 0.097rem 0.573rem 0rem 0rem;
+          object-fit: contain;
+          vertical-align: top;
+          width: 1.5272rem;
+        }
+        .battery-Udd {
+          flex-shrink: 0;
+          height: 1.3rem;
+          margin-top: 0.1rem;
+          object-fit: contain;
+          vertical-align: top;
+          width: 2.6978rem;
+        }
+      }
+    }
+  }
