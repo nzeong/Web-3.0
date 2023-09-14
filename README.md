@@ -1,6 +1,6 @@
 
 # ⚡ 번개맨 ⚡
-![1](https://github.com/nzeong/Web-3.0/assets/121355994/68cbd040-3915-4515-98b5-c5048ac4223e)
+![1](https://github.com/nzeong/Web-3.0/assets/121355994/98f8366b-b26e-402e-87b8-8f7399e9741b)
 #### 전기차 충전 습관을 블록체인에 기록하여 다양한 혜택을 얻어가보세요!
 ---
 # ⚡ Prototype
